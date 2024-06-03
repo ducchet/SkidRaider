@@ -184,7 +184,7 @@ Changed to Telegram
 + ... (forget)
 
 # 02/09/2023 - Update
-+ Added MemberScraper (it shit, It later changed to: https://github.com/Aniell4/MassDN/blob/main/scrape.py)
++ Added MemberScraper
 + ... (forget)
 
 # 29/08/2023 - Update
