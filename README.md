@@ -172,11 +172,11 @@ Changed to Telegram
 + New Joiner (fixed captcha on join, lock token, speed joinning)
 + ... (forget)
 
-# 15/09/2024 - Update
+# 15/09/2023 - Update
 + Added SoundBoard Spam
 + ... (forget)
 
-# 14/09/2024 - Update
+# 14/09/2023 - Update
 + Added Accept Rules
 + Added Onboard Bypass 
 + Added Restoreord
