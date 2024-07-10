@@ -258,7 +258,7 @@ Changed to Telegram
 + Added Accept Rules
 + Added Onboard Bypass 
 + Added Restoreord
-+ Added Hwid Checking (it good deleted)
++ Added Hwid Checking (deleted)
 + ... (forget)
 
 # 02/09/2023 - Update
