@@ -1,6 +1,84 @@
 # Skid Raider
 Lastest Build: 06/03/2024 - Since 2022
 
+# 07/08/2024
+Skid Selfbot
++ update
+  
+# 07/07/2024
+Skid Selfbot
++ fixed bugs
+
+# 07/07/2024
+Skid Selfbot
++ fixed delay
++ fixed cloudflare block (maybe )
+
+# 07/06/2024
+Skid Selfbot
++ added spam delay (you can set delay = 0)
++ tokens onliner: {prefix}online
+
+# 07/05/2024
+Skid Selfbot
++ fixed {prefix}stop command (it stops everything running)
++ added {prefix}key "license" to change key
++ added {prefix}button "button number, starting from 1" "channel_id" "guild_id" "message_id"
+fastest: {prefix}button "button number, starting from 1" "messagelink"
++ Joiner optimization, faster speed
+
+# 06/24/2024
+Skid Selfbot
++ fixed cloudflare shit
+
+# 06/22/2024
+Skid Selfbot
++ fixed some errors
+  
+# 06/19/2024
+Skid Selfbot
++ fix crash in windows 10
+
+# 06/19/2024
+Skid Selfbot
++ update
+
+# 06/16/2024
+Skid Selfbot
++ fix rate limit if you use large number of tokens (no proxy needed)
+
+# 06/14/2024
+Skid Selfbot
++ change icon discord rpc (turn off discord rpc in config.json)
++ fixed some errors
++ added some things
+
+# 06/14/2024
+Skid Selfbot
++ changed new icon
++ fixed some errors
++ added some things
+
+# 06/13/2024
+Skid Raider
++ update
+
+# 06/10/2024
+Skid Raider
++ Moved api to https://ptb.discord.com/api/v9 (but it has been changed as before)
+
+# 06/10/2024
+Skid Raider
++ Fix {yourprefix}change "token" command 
+
+# 06/09/2024
+Skid Raider
++ Update 
+
+# 06/08/2024
+Skid Raider
++ Fixed bugs
+
 # 06/03/2024
 Skid Raider
 + config: add function to save token and license to computer so you don't need to re-enter when there is an update
